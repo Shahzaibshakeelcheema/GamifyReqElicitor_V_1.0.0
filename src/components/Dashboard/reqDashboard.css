@@ -1,0 +1,9 @@
+.theader{
+    background-color: #039375;
+}
+th:hover {
+  background-color: #039375;
+}
+tr:hover{
+    background-color: #03e2b6b7;
+}

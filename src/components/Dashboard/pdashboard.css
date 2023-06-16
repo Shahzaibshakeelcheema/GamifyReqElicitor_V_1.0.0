@@ -1,0 +1,30 @@
+.mdesign{
+    border-radius: 50% ;
+    top: 50%;
+    border: 7px solid #c40000 ;
+    border-style: double;
+    transform: translate(0, 50%);
+}
+.modelpoint{
+    font-family: sans-serif,Arial, Helvetica;
+    font-size: 50px;
+    color: red;
+    font-style: italic;
+   
+    transition: 0.5s ease-in-out;
+}
+.modelpoint:hover{
+    transform: scale(1.1);
+}
+.mtitle{
+    text-align: center;
+    margin-left: 33%;
+    padding: 10px;
+}
+
+.mfooter{
+    margin-right: 35%;
+    text-align: center;
+    padding: 10px;
+    
+}
